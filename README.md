@@ -1,2 +1,2 @@
 # PeterCoin
-A contract example using IERC20
+A contract example using ERC20
